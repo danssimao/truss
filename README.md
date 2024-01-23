@@ -1,2 +1,2 @@
 # truss
-A boilerplate for building SSR applications with Web Standards
+A boilerplate for building SSR applications that follow the Web Standards
